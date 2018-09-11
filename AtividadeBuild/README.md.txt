@@ -1,0 +1,2 @@
+
+A implementação do padrãoBuild é bem interessante, dificil de se entender, mas quando começei a estudar vai diminuindo o nó na cabeça, não que isso tenha ficado mais fácil, não, mas desmistificou mais. Ela traz a facilidade de colocar os atributos de forma mais simples. Achei a implementação do FactoryMethod mais extensível, pois tinha que ta chamando os metodos, nessa build ja ficou mais facil utilizando o Padrão Build.
