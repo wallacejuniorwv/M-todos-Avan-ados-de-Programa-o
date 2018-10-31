@@ -1,0 +1,3 @@
+Atividade 13
+Questão 1 - i) No código a assinatura do observable é realizada na criação dos objetos que são herdados de observable.
+ii) Usando a assinatura do Observable, pode-se utilizar a mesma classe de Observable para extende para outras classes.
