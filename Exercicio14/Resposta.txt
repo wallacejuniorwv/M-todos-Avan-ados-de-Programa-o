@@ -1,0 +1,4 @@
+GO tem uma abstração do codigo maior do que a linguagem Java e também é uma linguagem.
+As Interfaces em Go declaram um conjunto de métodos e elas não possuem implementação, semelhante as interfaces de outras linguagens como nesse caso a Java. Os objetos que implementam todos os métodos da interface, automaticamente implementam a interface. 
+Então as interfaces não precisar ser declarada, apenas instancia os métodos. 
+No uso de composição é usado apenas pelo nome da struct e a forma de declarar os métodos das classes não precisa ser no proprio corpo da classe, apenas cria-se o método e declara-se qual objeto o possui.
